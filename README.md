@@ -1,6 +1,11 @@
 # DotsNet
 This is network game. First player create game server, then second player connect to game server. 
 
+Languages: English, Russian
+
+## Screenshot
+![alt text](https://pp.userapi.com/c849520/v849520345/15894/-R8mlWav2sw.jpg)
+
 ***
 ## 5 Simple Rules
 
